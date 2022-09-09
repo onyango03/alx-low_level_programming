@@ -3,10 +3,11 @@
 #include <stdio.h>
 /* more headers goes there */
 /*
+ *main - Entry point
  *this program will print is positive if number is greater than o
  *it will print is negative if n is less than 0
- *it will print zero if n is equal to 0\
- *it will return 0
+ *it will print zero if n is equal to 0
+ *Return: Always 0 (Successs/correct)
  */
 /* betty style docs for function main goes there */
 int main(void)
