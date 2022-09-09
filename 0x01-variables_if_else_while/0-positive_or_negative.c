@@ -48,7 +48,7 @@ int main(void)
     
     {
       
-      printf("i% zero", n);
+      printf("i% is zero", n);
       
     }
   
@@ -60,6 +60,6 @@ int main(void)
       
     }
   
-  return (0)
+  return (0);
     
     }
