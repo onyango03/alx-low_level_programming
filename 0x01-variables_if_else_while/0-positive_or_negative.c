@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /* more headers goes there */
-/*
+/**
 *main - Entry point
 *this program will print is positive if number is greater than o
 *it will print is negative if n is less than 0
